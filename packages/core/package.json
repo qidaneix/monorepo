@@ -20,7 +20,7 @@
     "registry": "https://mirrors.tencent.com/npm/"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "jest"
   },
   "dependencies": {
     "babel": "^6.23.0",

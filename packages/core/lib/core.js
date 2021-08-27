@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
-module.exports = core;
+module.exports = sum;
 
-function core() {
-    // TODO
+function sum(a, b) {
+  // TODO
+  return a + b;
 }
