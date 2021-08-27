@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
 module.exports = cards;
 
 function cards() {
-    // TODO
+  // TODO
+  return "hello world";
 }
